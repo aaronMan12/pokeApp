@@ -1,0 +1,13 @@
+use route tiene acceso a los parametros que paramos por params, es un Conposable de Rooter en vue
+
+
+Optional chaining '?' Sirve para pintar la informacion que esta adelante, pero si no existe
+no se pinta.
+
+Pinia: Gestor de estados globales.
+El storeToRefs es solo para los metodos get, funciones computadas o los datos reactivos, no funciona para los metodos.
+
+Local Storage:
+Para accceder al localStorage del navegador en lad DevTools busca el apartado de 
+Aplicacion, Local Storage.
+
